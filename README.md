@@ -420,13 +420,13 @@ La escala HSV proporciona una lectura numérica de su imagen que corresponde a l
 
 - Valor (o Brillo): El valor funciona junto con la saturación y describe el brillo o la intensidad del color, de 0 a 100 por ciento, donde 0 es completamente negro y 100 es el más brillante y revela la mayor parte del color.
 
-![Cono HSV](Notebook/HSV1.png)
+![Cono HSV](HSV1.png)
 
 ### Visualización en HSV
 El modelo HSV se usa particularmente en aplicaciones gráfica, muchas veces para ayudar a un usuario a elegir un color. Usada de esta manera, la rueda HSV se emplea generalmente. En esta, el matiz (hue) está representado por una región circular y se puede usar un triángulo separado para representar la saturación y el valor. Normalmente, el eje vertical del triángulo representa la saturación, mientras que el eje horizontal representa el valor. 
 De esta forma se puede elegir un color primero seleccionando el tono o matiz en la parte circular, luego la saturación y el valor en el triángulo.
 
-![Cono HSV](Notebook/HSV2.png)
+![Cono HSV](HSV2.png)
 
 
 ```python
